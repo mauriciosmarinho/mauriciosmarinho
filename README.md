@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mauricio da Silva Marinho
+- 👀 I’m interested in Go, PHP, React, Continous Integration and DevOps
+- 🌱 I’m currently learning APIs in Go
+- 💞️ I’m looking to collaborate on inovative projects
+- 📫 How to reach me mauriciodasilvamarinho@gmail.com
